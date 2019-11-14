@@ -59,7 +59,7 @@ title: 학사행정
 
 1. Image는 다음과 같이 업로드 할 수 있습니다.
 
-- ```<img align="left/right/center" src="./_img/파일명.확장자(jpeg,jpg,gif,png" width="이미지 너비값" height="이미지 높이값">```
+- ```<img align="left/right/center" src="./_img/파일명.확장자(jpeg,jpg,gif,png" width="너비값" height="높이값">```
 
 <img align="center" src="./_img/How to Go Course Status.gif" width="50%" height="50%">
 
