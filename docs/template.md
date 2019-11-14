@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 학사 
 ---
 
 ## 일반 행정
