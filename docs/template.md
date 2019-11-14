@@ -57,7 +57,7 @@ title: 학사행정
 ### 학점 취득 현황 조회
 > 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
 
-![Alt Text](./_img/How to Go Course Status.gif)
+<img align="center" src="./_img/How to Go Course Status.gif" width="50%" height="50%">
 
 ### 졸업 요건
 > 졸업하기 위해서 필요한 조건...
