@@ -61,7 +61,7 @@ title: 학사행정
 
 - ```<img align="left/right" src="./_img/파일명.확장자(jpeg,jpg,gif,png" width="너비값" height="높이값">```
 
-<img src="./_img/How to Go Course Status.gif" width="50%" height="50%">
+<img align="right" src="./_img/How to Go Course Status.gif" width="50%" height="50%">
 
 ### 졸업 요건
 > 졸업하기 위해서 필요한 조건...
