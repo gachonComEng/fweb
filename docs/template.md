@@ -31,7 +31,7 @@ title: 학사행정
 
 
 
-### 1. Academic Calendar in General
+#### 1. Academic Calendar in General
 
 |Semester|Schedule|
 |---|---|
@@ -40,24 +40,19 @@ title: 학사행정
 |2nd semester (Fall)|Early September ~ Mid. December (16 weeks)|
 |Winter Vacation|Late December ~ February|
  
-### 2. Student support
-#### Main contact point
+#### 2. Student support
+##### Main contact point
 - The office of international affairs: Room #613, Global center.
 - VISA, Admission, Scholarship, Semester registration, Paying tuition fees, General counseling, Campus life.
 
-#### Department contact point
+##### Department contact point
 - Department chair: Prof. Hwang Hee Joung, Room #6-1, IT Building.
 - Curriculum, Course enrollment, Academic counseling, Dept. life.
 - Office hour: Monday 17:00 ~ 17:30, Thuesday 16:00 ~ 17:00
 
-#### Student service
+##### Student service
 - Student service center: Room #101, Vision tower B (Entrance - behind the cafe pascucci)
 - Semester off / return, Dept. transfer, Double/Minor major.
-
-
-
-
-
 
 ### 학점 취득 현황 조회
 > 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
