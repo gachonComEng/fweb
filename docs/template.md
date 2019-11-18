@@ -6,6 +6,7 @@ title: 학사행정
 ## 일반 행정
 ### 공통사항
 > 기본적으로 알고 있어야 하는 공통 사항입니다.
+
 > GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
 
 #### Classification
