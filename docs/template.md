@@ -9,9 +9,6 @@ title: 학사행정
 
 > GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
 
-#### Classification
-- GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
-
 #### 1) Important !!
 - You must register at least **12 credits** (1 subject in 8th semester) every semester.
 - If you can't acquire 12 credits before semester, you couldn't receive international scholarship(40% discount of tuition fee).
