@@ -61,7 +61,7 @@ title: 학사행정
 
 - ```<img src="./_img/파일명.확장자(jpeg,jpg,gif,png" width="너비값" height="높이값">```
 
-<img src="./_img/How to Go Course Status.gif" width="70%" height="70%">
+<img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
 2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
 
