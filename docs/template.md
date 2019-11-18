@@ -7,19 +7,19 @@ title: 학사행정
 ### 공통사항
 > 기본적으로 알고 있어야 하는 공통 사항입니다.
 
-**Classification**
+#### Classification
 - GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
 
-#### Important !!
+##### 1) Important !!
 - You must register at least **12 credits** (1 subject in 8th semester) every semester.
 - If you can't acquire 12 credits before semester, you couldn't receive international scholarship(40% discount of tuition fee).
 
-#### Credit Requirements for graduation: 120
+##### 2) Credit Requirements for graduation: 120
 - Major: 66(MM:30, ME:36)
 - General Education 30(GB:18, GM:6, GC:6)
 - Extra units: 24
 
-#### Course offering / registration rules
+##### 3) Course offering / registration rules
 - Department offer MM, ME, GM subjects.
 - Liberal arts college and OIA offer GB, GC subjects.
 - All **MM** courses are offered every semester.
@@ -31,7 +31,7 @@ title: 학사행정
 
 
 
-#### 1. Academic Calendar in General
+##### 4) Academic Calendar in General
 
 |Semester|Schedule|
 |---|---|
@@ -40,17 +40,17 @@ title: 학사행정
 |2nd semester (Fall)|Early September ~ Mid. December (16 weeks)|
 |Winter Vacation|Late December ~ February|
  
-#### 2. Student support
-##### Main contact point
+##### 5) Student support
+**Main contact point**
 - The office of international affairs: Room #613, Global center.
 - VISA, Admission, Scholarship, Semester registration, Paying tuition fees, General counseling, Campus life.
 
-##### Department contact point
+**Department contact point**
 - Department chair: Prof. Hwang Hee Joung, Room #6-1, IT Building.
 - Curriculum, Course enrollment, Academic counseling, Dept. life.
 - Office hour: Monday 17:00 ~ 17:30, Thuesday 16:00 ~ 17:00
 
-##### Student service
+**Student service**
 - Student service center: Room #101, Vision tower B (Entrance - behind the cafe pascucci)
 - Semester off / return, Dept. transfer, Double/Minor major.
 
