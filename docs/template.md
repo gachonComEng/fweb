@@ -4,7 +4,6 @@ title: 학사행정
 ---
 
 ## 일반 행정
-### 공통사항
 > 기본적으로 알고 있어야 하는 공통 사항입니다.
 
 > GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
@@ -53,7 +52,7 @@ title: 학사행정
 - Student service center: Room #101, Vision tower B (Entrance - behind the cafe pascucci)
 - Semester off / return, Dept. transfer, Double/Minor major.
 
-### 학점 취득 현황 조회
+## 학점 취득 현황 조회
 > 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
 
 1. Image는 다음과 같이 업로드 할 수 있습니다.
@@ -66,18 +65,11 @@ title: 학사행정
 
 3. PPT 자료는 이미지로 저장하여 업로드해야 홈페이지에서 쉽게 확인할 수 있습니다.
 
-### 졸업 요건
-> 졸업하기 위해서 필요한 조건...
-
-### 노트북 지원금 신청
-### 전과 신청
-
-## 강의
-### 커리큘럼
-### 신청 가능 학점 수
-### 수강 신청
-### 외국인 강의 목록
-
-## 등록금
-### 등록금 고지서 출력
-### 등록금 납부
+## 노트북 지원금 신청
+## 전과 신청
+## 커리큘럼
+## 신청 가능 학점 수
+## 수강 신청
+## 외국인 강의 목록
+## 등록금 고지서 출력
+## 등록금 납부
