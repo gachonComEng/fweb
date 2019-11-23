@@ -41,7 +41,7 @@ title: 학사행정
 <!--- If you want to enroll any other **ME** subjects which are not open in english lecture you may register but lectures are conducted in korean.-->
 - 만약 영어 수업으로 열리지 않은 전선 과목들을 수강하기 원한다면 수강신청해도 된다. 하지만 수업들은 한국어로 진행된다.
 <!--- Except **GB** and **GM**, sometimes general subjects are offered different title as curriculum but you just take any subjects offered in english and that credits will be accepted later.-->
-- 그외 **기초교양**과 **융합교양**을 제외하고, 교양 수업들은 때때로 커리큘럼과 다른 제목으로 제공 된다. 하지만 영어로 제공되는 아무 과목들을 수강해도 나중에 학점 인정이 될 것이다.
+- 그외 **기초교양**과 **융합교양**을 제외하고, 교양 수업들은 때때로 커리큘럼과 다른 제목으로 제공 된다. 하지만 영어로 제공되는 어떠한 과목들을 수강해도 나중에 학점 인정이 될 것이다.
 
 #### 4) Academic Calendar in General
 
