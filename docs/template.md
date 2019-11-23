@@ -9,8 +9,8 @@ title: 학사행정
 > GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
 
 #### 1) Scholarship
-- You must register at least **12 credits** (1 subject in 8th semester) every semester.
-- If you can't acquire 12 credits before semester, you couldn't receive international scholarship(40% discount of tuition fee).
+- You must register at least **12 credits** (9 credits in case of the senior year) every semester.
+- If you can't acquire 12 credits during one semester, you couldn't receive international scholarship(40% discount of tuition fee).
 
 #### 2) Credit Requirements for graduation: 120
 - Major: 66(MM:30, ME:36)
