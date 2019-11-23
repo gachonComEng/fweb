@@ -88,6 +88,8 @@ title: 학사행정
 #### [How to go Course Status.git]
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
+<br>
+
 #### [Course Mannual for Foreign Student.jpg]
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
