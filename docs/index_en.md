@@ -62,7 +62,7 @@ title: Academic Resources
 > "Course Mannual for Foreign Student.jpg" is guidance about course status page. Please see the image, and be aware of your course status.
 
 
-#### [How to go Course Status.git]
+#### [How to go Course Status.gif]
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
 #### [Course Mannual for Foreign Student.jpg]
