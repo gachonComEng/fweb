@@ -43,8 +43,8 @@ title: 학사행정
 <!--- Except **GB** and **GM**, sometimes general subjects are offered different title as curriculum but you just take any subjects offered in english and that credits will be accepted later.-->
 - 그외 **기초교양**과 **융합교양**을 제외하고, 교양 수업들은 때때로 커리큘럼과 다른 제목으로 제공 된다. 하지만 영어로 제공되는 어떠한 과목들을 수강해도 나중에 학점 인정이 될 것이다.
 
-#### 4) Academic Calendar in General
-
+<!--#### 4) Academic Calendar in General-->
+#### 4) 일반적인 학사 일정
 <!--|Semester|Schedule|
 |---|---|
 |1st semester (Spring)|Early March ~ Mid. June (16 weeks)|
@@ -80,17 +80,18 @@ title: 학사행정
     - Semester off / return, Dept. transfer, Double/Minor major.
 
 ## 학점 취득 현황 조회
-> 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
+<!--> If you want to know your course status but don't know how to check it, see "How to go Course Status.gif". It will guide you how to go to your course status page.-->
+> 졸업학점 취득 현황을 조회하고 싶지만 방법을 모른다면 "How to go Course Status.gif"를 참조하시오.
+<!--> "Course Mannual for Foreign Student.jpg" is guidance about course status page. Please see the image, and be aware of your course status.-->
+> "Course Mannual for Foreign Student.jpg"는 졸업학점 취득 현황의 상태를 나타냅니다. 귀하의 졸업학점 취득현황을 확인하세요.
 
-1. Image는 다음과 같이 업로드 할 수 있습니다.
-
-- ```<img src="img/파일명.확장자(jpeg,jpg,gif,png" width="너비값" height="높이값">```
-
+#### [How to go Course Status.git]
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
-2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
+#### [Course Mannual for Foreign Student.jpg]
+<img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
-3. PPT 자료는 이미지로 저장하여 업로드해야 홈페이지에서 쉽게 확인할 수 있습니다.
+
 
 ## 노트북 지원금 신청
 ## 전과 신청
