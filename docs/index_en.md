@@ -66,7 +66,7 @@ title: Academic Resources
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
 #### [Course Mannual for Foreign Student.jpg]
-<img src="img/Course_Mannual_for_Foreign_Student.jpg" width="70%" height="70%">
+<img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
 2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
 
