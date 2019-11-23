@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Academic Resources
+title: 학사행정
 ---
 
-## General Resources
-> They are you must know basically.
+## 일반 행정
+> 기본적으로 알고 있어야 하는 공통 사항입니다.
 
 > GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
-
 
 #### 1) Scholarship
 - You must register at least **12 credits** (9 credits in case of the senior year) every semester.
 - If you can't acquire 12 credits during one semester, you couldn't receive international scholarship(40% discount of tuition fee).
 
-
 #### 2) Credit Requirements for graduation: 120
 - Major: 66(MM:30, ME:36)
 - General Education 30(GB:18, GM:6, GC:6)
 - Extra units: 24
-
 
 #### 3) Course offering / registration rules
 - Department offer MM, ME, GM subjects.
@@ -32,6 +29,7 @@ title: Academic Resources
 
 
 #### 4) Academic Calendar in General
+
 |Semester|Schedule|
 |---|---|
 |1st semester (Spring)|Early March ~ Mid. June (16 weeks)|
@@ -39,7 +37,6 @@ title: Academic Resources
 |2nd semester (Fall)|Early September ~ Mid. December (16 weeks)|
 |Winter Vacation|Late December ~ February|
  
-
 #### 5) Student support
 **Main contact point**
 - The office of international affairs: Room #613, Global center.
@@ -54,19 +51,14 @@ title: Academic Resources
 - Student service center: Room #101, Vision tower B (Entrance - behind the cafe pascucci)
     - Semester off / return, Dept. transfer, Double/Minor major.
 
+## 학점 취득 현황 조회
+> 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
 
+1. Image는 다음과 같이 업로드 할 수 있습니다.
 
-## Check acquired credit 
-> If you want to know your course status but don't know how to check it, see "How to go Course Status.gif". It will guide you how to go to your course status page.
+- ```<img src="img/파일명.확장자(jpeg,jpg,gif,png" width="너비값" height="높이값">```
 
-> "Course Mannual for Foreign Student.jpg" is guidance about course status page. Please see the image, and be aware of your course status.
-
-
-#### [How to go Course Status.git]
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
-
-#### [Course Mannual for Foreign Student.jpg]
-<img src="img/Course_Mannual_for_Foreign_Student.jpg" width="70%" height="70%">
 
 2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
 
