@@ -51,6 +51,7 @@ title: 학사행정
 
  ## Kredit holati bo'yicha ma'lumot
  > 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
+ 
 
 
 
