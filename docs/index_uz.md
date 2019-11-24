@@ -3,10 +3,11 @@ layout: default
 title: 학사행정
 ---
 
-## 일반 행정 
-> 기본적으로 알고 있어야 하는 공통 사항입니다.
+## Umumiy ma'muriyat
+ 
+> Odatda bilish kerak hol.
 
-> GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: majburiy mutahasislik fanlar, ME: ihtiyoriy mutahasislik fanlar
+> GB: 기초교양, GC: 융합교양, GM: 계열교양, MR: majburiy mutahasislik fanlar, ME: ihtiyoriy mutahasislik fanlar
 
 ### 1) stipendiya
 - Eng kami minimal **12 bal** masalan (fanlar 3 ballik, 2 ballik, 1 ballik) yig'ib 12 baldan oshirshinggiz shart 
@@ -15,17 +16,19 @@ title: 학사행정
 #### 2) Bitiruv uchun kredit talablari: 120
 - mutahasislik: 66(majburiy:30, ihtiyoriy:36)
 - 교양: 30(기초:18, 융합:6, 계교:6)
-- 일반 선택: 24
+- umumit tanlash: 24
 
 #### 3) jadval / kursni ro'yhatdan o'tkazish qoydalari
-- 과에서 전필, 전선, 계교 과목들을 개설한다.
-- Liberal arts college와 OIA에서 기초교양, 융합교양 과목들을 개설한다.
+- Kafedra majburiy mutahasislik, ihtiyoriy mutahasislik, 계교 fanlarini taklif qiladi.
+- Liberal san'at kolleji va  OIA-dan 기초교양, 융합교양 fanlarini taklif qiladi.
 - barcha **majburiy fanlar** har semesterda ochiladi.
 - barcha **ihtiyoriy mutahasislik fanlar** har semesterda ochiladi.
 - ingliz tilida o'tiladigan barcha majburiy fanlar "(외국인전용)원어강의" deb belgilangan.
-- "원어강의" 과목들 또한 수강신청 할 수 있지만, 그 과목들은 한국 학생들을 위한 영어 수업이다.
-- agar ingliz tilida ochilmagan ihtiyoriy mutahasislik fanlarini o'qishni hohlasangiz olishingiz mumkim. biroq darsliklar korea tilida o'tiladi.
-- 그외 **기초교양**과 **융합교양**을 제외하고, 교양 수업들은 때때로 커리큘럼과 다른 제목으로 제공 된다. 하지만 영어로 제공되는 아무 과목들을 수강해도 나중에 학점 인정이 될 것이다.
+- "원어강의" kurslarini ham olish mumkin, ammo ular koreys talabalari uchun ingliz tilidagi darslardir.
+
+- agar ingliz tilida ochilmagan ihtiyoriy mutahasislik fanlarini o'qishni hohlasangiz olishingiz mumkim. biroq darsliklar koreys tilida o'tiladi.
+- ** 기초교양과** ** 융합교양** -dan tashqari, ba'zan umumiy fanlarga o'quv rejasi sifatida har xil nomlar beriladi, ammo siz faqat ingliz tilida taqdim etilgan barcha mavzularni olasiz va keyinroq kreditlar qabul qilinadi.
+
 
 #### 4) Umumiy akademik taqvim
 |semester|jadval|
@@ -46,18 +49,20 @@ title: 학사행정
   - Ish vaqti: dushanba 17:00 ~ 17:30, seshanba 16:00 ~ 17:00
 
 **Talabalarga xizmat ko'rsatish**
-- Talabalarga xizmat ko'rsatish markazi : 비전타워B동 minorasi Xona № 101(kirish - 파스쿠치까페 qahvaxonasi orqasida)
+- Talabalarga xizmat ko'rsatish markazi : 비전타워B동 minorasi Xona № 101 (kirish - 파스쿠치까페 qahvaxonasi orqasida)
  - Semestrda o'qish / qaytish, xizmatni boshqa joyga ko'chirish.
 
  ## Kredit holati bo'yicha ma'lumot
- > 이 곳에서는 해당 서브 타이틀에 대한 간략한 설명을 다는 부분입니다.
+ > Agar siz kursingiz holati to'g'risida bilmoqchi bo'lsangiz, lekin uni qanday tekshirishni bilmasangiz, "Kurs Status.gif-ga qanday borish kerak" bo'limiga qarang. Kurs holati sahifangizga qanday o'tishni ko'rsatib beradi.
+
+
+<img src="img/How to Go Course Status.gif" width="70%" height="70%">
+
+#### Chet ellik talaba uchun o'quv qo'llanma.jpg
+
+
+<img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
  
-
-
-
-
-
-
 
 
 
