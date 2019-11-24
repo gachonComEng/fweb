@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 학사행정
+title: Akademik manbalar
 ---
 
 ## Umumiy ma'muriyat
