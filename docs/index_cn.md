@@ -1,10 +1,10 @@
 ---
 layout: default
+title: Academic Resources
 ---
-
 ## 一般内容
 
--这是十分重要的内容。
+这是十分重要的内容。
 
 #### 1)奖学金
 
