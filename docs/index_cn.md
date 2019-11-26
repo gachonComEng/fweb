@@ -2,122 +2,77 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 一般内容
 
-[Link to another page](./another-page.html).
+-这是十分重要的内容。
 
-There should be whitespace between paragraphs.
+#### 1)奖学金
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* 每学期您必须至少选择12个学分的课程（如果是第4学年，则必须选择9个学分的课程）。
+* 如果一个学期无法获得12个学分，就无法获得留学生奖学金（金额为学费的40%）。
 
-# Header 1
+#### 2) 毕业学分要求 120分
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* 专业分 66分 (专业必修 30分 专业选修 36分)
+* 教养分 30分 (基础教养 18分 融合教养 6分 阶段教养 6分)
+* 额外课程 24分
 
 
-### Definition lists can be used with HTML syntax.
+#### 3) 课程设置/注册规则
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* 计算机工学系开设专业必修，专业选修，阶段教养科目。
+* 文理学院和OIA提供基础教养，融合教养科目。
+* 每个学期提供所有专业必修课程。
+* 每学期提供部分专业选修课程。
+* 所有以英语授课的课程均标记有“（외국인전용）원어강의”。
+* 您也可以选择“원어강의”科目，但它们是针对韩国学生的英语授课课程。
+* 您可以选择未标记为英语授课的专业选修课程，授课将以韩文进行。
+* 除基础教养和GM外，有时为普通科目提供不同的标题作为课程，但是您只要选择任何以英语   提供的科目，就会获得学分。
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+#### 4) 学期时间表
+| 学期            | 时间                  | 
+|:--------------- |:---------------------|
+| 第一学期(春季)   |三月上旬-六月(16周)    | 
+| 暑假            |  六月下旬-八月        | 
+| 第二学期(秋季)   | 九月上旬-十二月(16周) | 
+| 寒假            | 十二月下旬-2月        | 
 
-```
-The final element.
-```
+#### 5) 主要接待室
+
+-  国际事务办公室：全球中心613室。
+    -   签证，入学，奖学金，学期注册，支付学费，一般咨询，校园生活。
+
+
+#### 6) 系主任办公室
+
+- 系主任：黄熙政教授，IT大楼6-1室。
+  - 课程，课程注册，学术咨询，部门生活。
+  - 办公时间：星期一17:00〜17:30，星期二16:00〜17:00
+
+#### 7) 学生服务中心
+
+- 学生服务中心：视觉塔B室101室（入口-帕斯奇咖啡厅后面）
+  - 学期休假/返校，系转学，双/次专业。
+
+# 检查获得的学分
+
+如果您想知道自己的课程状态，但不知道如何检查它，请参阅“如何进入课程状态.gif”。它将指导您如何进入课程状态页面。
+
+“外国留学生课程手册.jpg”是关于课程状态页面的指导。请查看图片，并了解您的课程状态。
+
+#### 如何进入课程状态
+
+<img src="img/How to Go Course Status.gif" width="70%" height="70%">
+
+
+
+<img src="img/Course_Mannual_for_Foreign_Student_CN.png" width="70%" height="70%">
+
+# 申请笔记本电脑支援金
+# 转系申请
+# 课程设置
+# 可申请学分数
+# 课程申请
+# 外国人班授课目录
+# 学费通知书查询与打印
+# 学费缴纳
