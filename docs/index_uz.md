@@ -41,16 +41,16 @@ title: Akademik manbalar
 #### 5) Talabalarni qo'llab-quvvatlash
 **Bosh ofis**
 - Xalqaro aloqalar bo'limi: Global markaz № 613
- - VISA, kirish, stipendiya, semestrda ro'yxatdan o'tish, o'qish uchun to'lov, umumiy maslahat, kampus hayoti.
+  - VISA, kirish, stipendiya, semestrda ro'yxatdan o'tish, o'qish uchun to'lov, umumiy maslahat, kampus hayoti.
 
 **Bo'lim idorasi**
  - Kafedra: 황희정 교수님, IT-Building 6-1-chi hona
-  - O'quv rejasi, kursga yozilish, akademik maslahat, kafedra hayoti
-  - Ish vaqti: dushanba 17:00 ~ 17:30, seshanba 16:00 ~ 17:00
+   - O'quv rejasi, kursga yozilish, akademik maslahat, kafedra hayoti
+   - Ish vaqti: dushanba 17:00 ~ 17:30, seshanba 16:00 ~ 17:00
 
 **Talabalarga xizmat ko'rsatish**
 - Talabalarga xizmat ko'rsatish markazi : 비전타워B동 minorasi Xona № 101 (kirish - 파스쿠치까페 qahvaxonasi orqasida)
- - Semestrda o'qish / qaytish, xizmatni boshqa joyga ko'chirish.
+  - Semestrda o'qish / qaytish, xizmatni boshqa joyga ko'chirish.
 
  ## Kredit holati bo'yicha ma'lumot
  > Agar siz kursingiz holati to'g'risida bilmoqchi bo'lsangiz, lekin uni qanday tekshirishni bilmasangiz, "Kurs Status.gif-ga qanday borish kerak" bo'limiga qarang. Kurs holati sahifangizga qanday o'tishni ko'rsatib beradi.
@@ -62,6 +62,10 @@ title: Akademik manbalar
 
 
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
+
+2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
+
+3. PPT 자료는 이미지로 저장하여 업로드해야 홈페이지에서 쉽게 확인할 수 있습니다.
  
 
 
