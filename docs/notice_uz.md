@@ -17,7 +17,7 @@ title: Bo'lim haqida eslatma
      - PPT, dizayn va namoyish videolari osongina aniqlash uchun bitta papkada birlashtirilgan bulish kerak
   *  Taqdimot tartibi : Oldindan ro'yxat bilan davom eting
   * Taqdimot vaqti: Jamoa taqdimot vaqti 10-15 daqiqa ichida taqdimot va namoyishlarni o'z ichiga oladi (tayanch vaqti yo'q).
-  * Baholash joyi: 1-501, 2-502, 3-505, 4-506 (IT Convergence University))
+  * Baholash joyi: 1-501, 2-502, 3-505, 4-506 (IT Convergence University)
 
 **3) ehtiyot choralari**
   * Namoyishga tayyorgarlik soat 18.00 dan oldin bajarilishi kerak
