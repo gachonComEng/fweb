@@ -70,10 +70,6 @@ title: Academic Resources
 #### [Course Mannual for Foreign Student.jpg]
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
-2. Template의 소스코드를 보기 위해서는 'Template.md' 파일의 **Raw** 항목을 클릭하면 md 파일의 소스를 확인할 수 있습니다.
-
-3. PPT 자료는 이미지로 저장하여 업로드해야 홈페이지에서 쉽게 확인할 수 있습니다.
-
 ## 노트북 지원금 신청
 ## 전과 신청
 ## 커리큘럼
