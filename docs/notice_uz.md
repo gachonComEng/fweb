@@ -14,7 +14,7 @@ title: Bo'lim haqida eslatma
   * Tayyorgarlik
      - PPT taqdimoti kabi kerakli fayllarni ish stoliga nusxalash
      - Namoyish qilinadigan video yoki namoyish elementini o'rnating
-     - PPT, dizayn va namoyish videolari osongina aniqlash uchun bitta papkada birlashtirilgan함
+     - PPT, dizayn va namoyish videolari osongina aniqlash uchun bitta papkada birlashtirilgan bulish kerak
   *  Taqdimot tartibi : Oldindan ro'yxat bilan davom eting
   * Taqdimot vaqti: Jamoa taqdimot vaqti 10-15 daqiqa ichida taqdimot va namoyishlarni o'z ichiga oladi (tayanch vaqti yo'q).
   * Baholash joyi: 1-501, 2-502, 3-505, 4-506 (IT Convergence University))
