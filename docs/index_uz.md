@@ -31,6 +31,7 @@ title: Akademik manbalar
 
 
 #### 4) Umumiy akademik taqvim
+
 |semester|jadval|
 |---|---|
 |1-semester (bahor)|mart boshi ~ iyun o'rtasi (16 hafta)|
