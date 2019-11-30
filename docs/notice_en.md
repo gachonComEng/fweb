@@ -3,7 +3,7 @@ layout: default
 title: Notice
 ---
 
-## 18.11.19 Announcement about graduation project evaluation
+## (18.11.19) Announcement about graduation project evaluation
 
 **1) Advance preparations**
   * Print out 3 copies of presentation materials. 
