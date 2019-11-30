@@ -74,7 +74,7 @@ title: Academic Resources
 ## Apply for department transfer
 ## Curriculum
 ## Credit
-## Register Class
+## Register class
 ## Class list for foreign students
 ## Print out tuition bill
 ## Pay tuition
