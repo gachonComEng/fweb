@@ -70,11 +70,11 @@ title: Academic Resources
 
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
-## Apply for laptop support fund
-## Apply for department transfer
+## Apply for Laptop Support Fund
+## Apply for Department Transfer
 ## Curriculum
 ## Credit
-## Register class
-## Class list for foreign students
-## Print out tuition bill
-## Pay tuition
+## Register for Class
+## Class List for Foreign Students
+## Tuition Payment Bill Printout
+## Tuition Fee Payment
