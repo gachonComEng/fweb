@@ -57,7 +57,7 @@ title: Academic Resources
 
 
 
-## Check Acquired Credit 
+## Acquired Credit 
 > If you want to know your course status but don't know how to check it, see "How to go Course Status.gif". It will guide you how to go to your course status page.
 
 > "Course Mannual for Foreign Student.jpg" is guidance about course status page. Please see the image, and be aware of your course status.
