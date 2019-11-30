@@ -32,6 +32,7 @@ title: Academic Resources
 
 
 #### 4) Academic Calendar in General
+
 |Semester|Schedule|
 |---|---|
 |1st semester (Spring)|Early March ~ Mid. June (16 weeks)|
@@ -61,20 +62,19 @@ title: Academic Resources
 
 > "Course Mannual for Foreign Student.jpg" is guidance about course status page. Please see the image, and be aware of your course status.
 
+<br>
 
-#### [How to go Course Status.gif]
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
 <br>
 
-#### [Course Mannual for Foreign Student.jpg]
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
-## 노트북 지원금 신청
-## 전과 신청
-## 커리큘럼
-## 신청 가능 학점 수
-## 수강 신청
-## 외국인 강의 목록
-## 등록금 고지서 출력
-## 등록금 납부
+## Apply for laptop support fund
+## Apply for department transfer
+## Curriculum
+## Credit
+## Register Class
+## Class list for foreign students
+## Print out tuition bill
+## Pay tuition
