@@ -21,7 +21,7 @@ title: Academic Resources
 
 
 #### 3) Course Offer / Registration Rules
-- Department offer MM, ME, GM subjects.
+- The department offers MM, ME, GM subjects.
 - Liberal arts college and OIA offer GB, GC subjects.
 - All **MM** courses are offered every semester.
 - Selected **ME** courses are offered every semester.
@@ -72,7 +72,18 @@ title: Academic Resources
 
 ## Apply for Laptop Support Fund
 ## Apply for Department Transfer
+
 ## Curriculum
+>Course Search - Click following link<p>
+http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en
+
+Curriculum(2017,2018)
+- The subjects which marked in ENG field are candidate subjects for english lecture class.
+- Actual offered subjects may be different every semester.
+- Take courses for your grade.
+
+    [Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf)/[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf)
+
 ## Credit
 ## Register for Class
 ## Class List for Foreign Students
