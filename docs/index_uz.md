@@ -71,11 +71,52 @@ title: Akademik manbalar
 
 
 
-## 노트북 지원금 신청
-## 전과 신청
-## 커리큘럼
-## 신청 가능 학점 수
-## 수강 신청
-## 외국인 강의 목록
-## 등록금 고지서 출력
-## 등록금 납부
+## notebook grant olish uchun ariza
+## fakultetni o'zgartirish uchun ariza
+
+>Iltimos, universitet veb-saytini tekshiring.
+><http://www.gachon.ac.kr/community/opencampus/06.jsp?mode=view&boardType_seq=340&board_no=526>{: target="_blank"}
+
+1. Ariza berish muddati: 2018.11.12 (dushanba) ~ 11.23 (juma)
+
+2. Qatnashish darajasi: 1-kurs, 2-semestr (abituriyent ta'tilida bo'lgan talabadan tashqari) yoki darsdan keyin.
+
+3. Ishga qabul qilish raqami: har bir bo'lim uchun kirish kvotasining 50%
+
+4. Talab: Yiliga o'rtacha 2,5 reyting birligidan yuqori bo'lganlar (2018-2 semestrni ham o'z ichiga oladi)
+
+5. Topshirish uchun hujjatlar: ariza, bahoni takomillashtirish, o'quv rejasi
+    * Turizm menejmenti, sharq tili, arxitektura muhandisligi, fuqarolik muhiti, bionano, biotibbiyot, jismoniy mashqlar reabilitatsiyasi farovonligi o'quv rejasiga muhtoj emas.
+    * Agar bo'lim talab qilsa, boshqa hujjatlar taqdim etilishi kerak.
+
+6. Qabul joyi: Amaldagi bo'lim
+
+7. E'lonlar: 2019.01.17 (Payshanba) universiteti veb-sayti
+
+8. Ogohlantirishlar: muhim xabar.<br>
+    * Agar sizga ruxsat berilsa, avvalgi depozitda olingan kreditlar. sizning yangi ishingiz rejasiga muvofiq o'zgartiriladi. talaba raqamiga mos keladi.
+    * GB, GCbe qabul qiluvchisi bir xil kredit bilan qabul qilinadi.
+    * GM, ME, MM umumiy tanlovga o'zgartiriladi.
+    * Depressni o'zgartirgandan so'ng, siz o'zgargan o'quv to'lovini to'lashingiz kerak.
+    * Siz o'zgartirgan birinchi semestrda akademik mukammallik uchun stipendiyani ololmaysiz.
+    * Agar sizga ruhsat berilsa, siz yangi bo'limingizda biron bir kursni o'tashingiz kerak.
+
+Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
+
+
+## O'quv dasturi
+>Kurs qidirish - quyidagi havolani bosing
+><http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en>{: target="_blank"}
+
+#### O'quv dasturi(2017,2018)
+- ENG sohasida belgilangan fanlar ingliz tilida ma'ruza mashg'ulotlari uchun nomzodlik mavzularidir.
+- Har semestrda taqdim etiladigan amaliy mavzular har xil bo'lishi mumkin.
+- Sinfingiz uchun kurslar oling.
+
+   [Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
+## olish mumkin bo'lgan kreditlar soni
+## Kursni ro'yxatdan o'tkazish
+## Chet ellik talabalar uchun sinflar ro'yxati
+## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish
+
+## O'qish uchun to'lov
