@@ -113,7 +113,7 @@ Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
 - Har semestrda taqdim etiladigan amaliy mavzular har xil bo'lishi mumkin.
 - Sinfingiz uchun kurslar oling.
 
-   [Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
+   [O'quv dasturi-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[O'quv dasturi-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
 ## olish mumkin bo'lgan kreditlar soni
 ## Kursni ro'yxatdan o'tkazish
 ## Chet ellik talabalar uchun sinflar ro'yxati
