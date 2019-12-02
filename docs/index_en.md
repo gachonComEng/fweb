@@ -74,7 +74,7 @@ title: Academic Resources
 ## Apply for Department Transfer
 
 ## Curriculum
->Course Search - Click following link<p>
+>Course Search - Click following link<br>
 http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en
 
 Curriculum(2017,2018)
