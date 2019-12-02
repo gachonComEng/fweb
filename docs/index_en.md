@@ -75,7 +75,7 @@ title: Academic Resources
 ## Apply for Department Transfer
 
 >Please check the university website.
-><http://www.gachon.ac.kr/community/opencampus/06.jsp?mode=view&boardType_seq=340&board_no=526>
+><http://www.gachon.ac.kr/community/opencampus/06.jsp?mode=view&boardType_seq=340&board_no=526>{: target="_blank"}
 
 1. Application Period : 2018.11.12(Mon) ~ 11.23(Fri)
 
