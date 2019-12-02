@@ -74,8 +74,8 @@ title: Academic Resources
 ## Apply for Department Transfer
 
 ## Curriculum
-><p>Course Search - Click following link
-<http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en></p>
+>Course Search - Click following link
+><http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en>
 
 Curriculum(2017,2018)
 - The subjects which marked in ENG field are candidate subjects for english lecture class.
