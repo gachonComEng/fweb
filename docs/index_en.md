@@ -110,14 +110,14 @@ For more information please contact your current dept. office.
 
 ## Curriculum
 >Course Search - Click following link
-><http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en>
+><http://203.249.126.126:9090/servlets/jsp/timetable/frame.jsp?lang=en>{: target="_blank"}
 
 Curriculum(2017,2018)
 - The subjects which marked in ENG field are candidate subjects for english lecture class.
 - Actual offered subjects may be different every semester.
 - Take courses for your grade.
 
-    [Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf)/[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf)
+    [Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
 
 ## Credit
 ## Register for Class
