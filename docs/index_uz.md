@@ -118,5 +118,4 @@ Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
 ## Kursni ro'yxatdan o'tkazish
 ## Chet ellik talabalar uchun sinflar ro'yxati
 ## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish
-
 ## O'qish uchun to'lov
