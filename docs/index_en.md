@@ -94,17 +94,12 @@ title: Academic Resources
 7. Announcement : 2019.01.17(Thur) University website
 
 8. Cautions : Important notice.<br>
-    (1) If you are permitted, the credits acquired in your previous dept. are changed according to the curriculum of your new dept. corresponding to the student's number.
-
-    (2) GB, GC will be accepted with the same credit.
-
-    (3) GM, ME, MM will be changed to General Selection.
-
-    (4) After changing dept., you must pay tuition fees that have changed.
-
-    (5) You can't take the academic excellence scholarship in the first semester you change.
-    
-	(6) If you are permitted, you must take some course in your new department.
+    * If you are permitted, the credits acquired in your previous dept. are changed according to the curriculum of your new dept. corresponding to the student's number.
+    * GB, GC will be accepted with the same credit.
+    * GM, ME, MM will be changed to General Selection.
+    * After changing dept., you must pay tuition fees that have changed.
+    * You can't take the academic excellence scholarship in the first semester you change.
+	* If you are permitted, you must take some course in your new department.
 
 For more information please contact your current dept. office.
 
