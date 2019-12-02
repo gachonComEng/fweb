@@ -110,10 +110,10 @@ title: Academic Resources
   * 实际开设的科目每学期可能有所不同。
   * 选择适合您年级的课程。
 
-Curriculum-CE-2017 {：target =“ _ blank”} 
+[Curriculum-CE-2017](pdf/Curriculum-CE-2017.pdf)
 
-Curriculum-CE-2018 {：target =“ _ blank”}
 
+[Curriculum-CE-2018](pdf/Curriculum-CE-2018.pdf)
 ## 可申请学分数
 ## 课程申请
 ## 外国人班授课目录
