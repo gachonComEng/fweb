@@ -6,7 +6,7 @@ title: Academic Resources
 ## General Resources
 > They are you must know basically.
 
-> GB: General-Basic, GC: General-Conversions, GM: General-Major, MR: Major-Mandatory, ME: Major-Elective
+> GB: General-Basic, GC: General-Conversions, GM: General-Major, MM: Major-Mandatory, ME: Major-Elective
 
 
 #### 1) Scholarship
@@ -72,6 +72,40 @@ title: Academic Resources
 
 ## Apply for Laptop Support Fund
 ## Apply for Department Transfer
+
+>Please check the university website.
+><http://www.gachon.ac.kr/community/opencampus/06.jsp?mode=view&boardType_seq=340&board_no=526>
+
+1. Application Period : 2018.11.12(Mon) ~ 11.23(Fri)
+
+2. Eligibility grade : 1st year, 2nd Semester (excluding a student on leave of absense) or after grade.
+
+3. Recruitment Number : 50% of the entrance quota for each department
+
+4. Requirement : Above 2.5 unit of a year's average rating limited to passer (Includ 2018-2 semester)
+
+5. Documents to Submit : Application, Provement of grade, Study plan
+    * Tourism Management, Oriental Language, Architectural Engineering, Civil Environment, Bionano, Biomedical, Exercise Rehabilitation Welfare don't need the study plan.
+    * Other document should be submitted if the department require.
+
+6. Reception place : Current Dept. Office
+
+7. Announcement : 2019.01.17(Thur) University website
+
+8. Cautions : Important notice.
+    (1) If you are permitted, the credits acquired in your previous dept. are changed according to the curriculum of your new dept. corresponding to the student's number.
+
+    (2) GB, GC will be accepted with the same credit.
+
+    (3) GM, ME, MM will be changed to General Selection.
+
+    (4) After changing dept., you must pay tuition fees that have changed.
+
+    (5) You can't take the academic excellence scholarship in the first semester you change.
+    
+	(6) If you are permitted, you must take some course in your new department.
+
+For more information please contact your current dept. office.
 
 ## Curriculum
 >Course Search - Click following link
