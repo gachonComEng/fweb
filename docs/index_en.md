@@ -71,6 +71,7 @@ title: Academic Resources
 <img src="img/Course_Mannual_for_Foreign_Student.JPG" width="70%" height="70%">
 
 ## Apply for Laptop Support Fund
+
 ## Apply for Department Transfer
 
 >Please check the university website.
