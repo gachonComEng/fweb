@@ -93,7 +93,7 @@ title: Academic Resources
 
 7. Announcement : 2019.01.17(Thur) University website
 
-8. Cautions : Important notice.
+8. Cautions : Important notice.<br>
     (1) If you are permitted, the credits acquired in your previous dept. are changed according to the curriculum of your new dept. corresponding to the student's number.
 
     (2) GB, GC will be accepted with the same credit.
