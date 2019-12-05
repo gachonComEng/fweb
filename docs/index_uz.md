@@ -114,8 +114,8 @@ Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
 - Sinfingiz uchun kurslar oling.
 
    [O'quv dasturi-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[O'quv dasturi-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
-## olish mumkin bo'lgan kreditlar soni  '현재 작업중'
-## Kursni ro'yxatdan o'tkazish '현재 작업중'
-## Chet ellik talabalar uchun sinflar ro'yxati  '현재 작업중'
-## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish  '현재 작업중'
-## O'qish uchun to'lov '현재 작업중'
+## Olish mumkin bo'lgan kreditlar soni  'hozirda ishlanmoqda'
+## Kursni ro'yxatdan o'tkazish 'hozirda ishlanmoqda'
+## Chet ellik talabalar uchun sinflar ro'yxati  'hozirda ishlanmoqda'
+## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish  'hozirda ishlanmoqda'
+## O'qish uchun to'lov 'hozirda ishlanmoqda'
