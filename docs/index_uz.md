@@ -55,7 +55,7 @@ title: Akademik manbalar
 
  ## Kredit holati bo'yicha ma'lumot
  > Agar siz kursingiz holati to'g'risida bilmoqchi bo'lsangiz, lekin uni qanday tekshirishni bilmasangiz, "Kurs Status.gif-ga qanday borish kerak" bo'limiga qarang. Kurs holati sahifangizga qanday o'tishni ko'rsatib beradi.
-
+ 
 
 <img src="img/How to Go Course Status.gif" width="70%" height="70%">
 
@@ -114,8 +114,8 @@ Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
 - Sinfingiz uchun kurslar oling.
 
    [O'quv dasturi-CE-2017](pdf/Curriculum-CE-2017.pdf){: target="_blank"}/[O'quv dasturi-CE-2018](pdf/Curriculum-CE-2018.pdf){: target="_blank"}
-## olish mumkin bo'lgan kreditlar soni
-## Kursni ro'yxatdan o'tkazish
-## Chet ellik talabalar uchun sinflar ro'yxati
-## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish
-## O'qish uchun to'lov
+## olish mumkin bo'lgan kreditlar soni  '현재 작업중'
+## Kursni ro'yxatdan o'tkazish '현재 작업중'
+## Chet ellik talabalar uchun sinflar ro'yxati  '현재 작업중'
+## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish  '현재 작업중'
+## O'qish uchun to'lov '현재 작업중'
