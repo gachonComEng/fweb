@@ -125,8 +125,7 @@ For more information please contact your current dept. office.
 [How to printout payment bill](pdf/How_to_print_out_tuition_fees.pptx){: target="_blank"}
 
 - The tuition fees is different between students.
-
-* If you have a question or problem about notice, please contact
+- If you have a question or problem about notice, please contact
 at the chat room.
 
 ## Tuition Fee Payment
