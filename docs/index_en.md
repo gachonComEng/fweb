@@ -118,4 +118,14 @@ For more information please contact your current dept. office.
 ## Register for Class
 ## Class List for Foreign Students
 ## Tuition Payment Bill Printout
+>If you want to check or print out your tuition fees but don't know how to do >that, please download 'How to print out tuition fees.pptx' and read it.
+
+<img src="img/how_to_printout.gif" width="70%" height="70%">
+[How to printout payment bill](pdf/How_to_print_out_tuition_fees.pptx){: target="_blank"}/
+
+- The tuition fees is different between students.
+
+* If you have a question or problem about notice, please contact
+at the chat room.
+
 ## Tuition Fee Payment
