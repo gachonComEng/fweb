@@ -129,3 +129,28 @@ For more information please contact your current dept. office.
 at the chat room.
 
 ## Tuition Fee Payment
+>If you don't know how to print out your tuition fee, please check the 'How to print out tuition payment bill.pptx' above this part.
+>During that time, you must pay the tuition fee from 07:00 to 23:30.
+
+Tuition Fee Notice
+
+**Pay at once**
+- 1st period : 2019. 08. 26(Mon) ~ 08.30(Fri)
+- 2nd period : 2019.09.09(Mon) ~ 09.13(Fri)
+- 3rd period : 2019.09.23(Mon) ~ 09.27(Fri)
+    - You can print out your tuition fee after 2019.08.13(Tue) 13:00.
+
+**Pay divided**
+- Application period : 2019.08.01(Fri) ~ 08.30(Fri) 15:00
+- Acceptance date : 2019.08.30(Fri) 16:00
+- 1st period(1/3 of fee) : 2019.09.09(Mon) ~ 09.20(Fri)
+- 2nd period(1/3 of fee) : 2019.10.07(Mon) ~ 10.18(Fri)
+- 3rd period(1/3 of fee) : 2019.11.04(Mon) ~ 11.16(Fri)
+    - You can print out each tuition fee at the first day of payment.
+    - Please check the 'How to apply to pay divided of tuition fee.pptx'
+
+<img src="img/divided.gif" width="70%" height="70%">
+<br>
+[How to apply to divided of tuition fee.pptx](pdf/how_to_divide_tuition_fee.pptx){: target="_blank"}
+
+
