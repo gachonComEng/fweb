@@ -121,7 +121,8 @@ For more information please contact your current dept. office.
 >If you want to check or print out your tuition fees but don't know how to do >that, please download 'How to print out tuition fees.pptx' and read it.
 
 <img src="img/how_to_printout.gif" width="70%" height="70%">
-[How to printout payment bill](pdf/How_to_print_out_tuition_fees.pptx){: target="_blank"}/
+<br>
+[How to printout payment bill](pdf/How_to_print_out_tuition_fees.pptx){: target="_blank"}
 
 - The tuition fees is different between students.
 
