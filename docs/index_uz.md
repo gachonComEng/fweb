@@ -117,5 +117,44 @@ Qo'shimcha ma'lumot uchun iltimos, joriy idorangiz bilan bog'laning. idora.
 ## Olish mumkin bo'lgan kreditlar soni  'hozirda ishlanmoqda'
 ## Kursni ro'yxatdan o'tkazish 'hozirda ishlanmoqda'
 ## Chet ellik talabalar uchun sinflar ro'yxati  'hozirda ishlanmoqda'
-## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish  'hozirda ishlanmoqda'
-## O'qish uchun to'lov 'hozirda ishlanmoqda'
+## Ta'lim uchun to'lash to'g'risidagi to'lovni chop etish 
+>Agar siz o'qish narxini tekshirmoqchi bo'lsangiz yoki chop qilmoqchi bo'lsangiz, lekin buni qanday qilishni bilmasangiz, iltimos 'To'lov to'lovi to'g'risidagi bill.pptx-ni qanday chiqarish kerak' ni yuklab oling va o'qing.
+
+<img src="img/how_to_printout.gif" width="70%" height="70%">
+<br>
+[To'lov to'lov varag'ini qanday chiqarish kerak.pptx](pdf/How_to_print_out_tuition_fees.pptx){: target="_blank"}
+
+- O'qish narxi talabalar o'rtasida farq qiladi.
+
+- Agar siz xabar berish to'g'risida savolingiz bo'lsa yoki murojaat qilsangiz, iltimos, murojaat qiling
+suhbat xonasida. 
+## O'qish uchun to'lov 
+>Agar siz o'qish to'lovini qanday qilib chop etishni bilmasangiz, iltimos, ushbu qismning yuqoridagi "Ta'lim to'lovi to'g'risidagi bill.pptx-ni qanday chiqarish kerak" bo'limiga qarang.
+>Shu vaqt ichida siz o'qish uchun to'lovni 07:00 dan 23:30 gacha to'lashingiz kerak.
+
+O'qish haqi to'g'risida eslatma
+
+**Birdaniga to‘lang**
+- 1-davr: 2019. 08. 26 (dushanba) ~ 08.30 (jum)
+- 2-davr: 2019.09.09 (dushanba) ~ 09.13 (jum)
+- 3-davr: 2019.09.23 (dushanba) ~ 09.27 (jum)
+    - Siz 2019.08.13 (ses) 13:00 dan keyin o'qish narxini chop etishingiz mumkin.
+
+**to'langan pul**
+- Arizalarni qabul qilish muddati: 2019.08.01 (jum) ~ 08.30 (juma) 15:00
+- Qabul sanasi: 2019.08.30 (Juma) 16:00
+- 1-davr (to'lovning 1/3 qismi): 2019.09.09 (dushanba) ~ 09.20 (jum)
+- 2-davr (to'lovning 1/3 qismi): 2019.10.07 (dushanba) ~ 10.18 (jum)
+- 3-davr (to'lovning 1/3 qismi): 2019.11.04 (dushanba) ~ 11.16 (jum)
+    - Siz har bir o'qish to'lovini to'lovning birinchi kunida chop etishingiz mumkin.
+    - Iltimos, "ikkiga bo'lingan o'quv haqini to'lash uchun qanday murojaat qilish kerak.
+
+<img src="img/divided.gif" width="70%" height="70%">
+<br>
+[Ajratilgan o'qish to'loviga qanday murojaat qilish kerak.pptx](pdf/how_to_divide_tuition_fee.pptx){: target="_blank"}
+
+
+
+
+
+
